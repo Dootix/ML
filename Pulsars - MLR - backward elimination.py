@@ -1,9 +1,5 @@
 """
      PULSAR DISTANCE MEASUREMENT - MULTIPLE LINEAR REGRESSION MODEL
-                   
-Created on Tue Apr  3 21:51:28 2018
-
-@author: Oskar Rudziński
 """
 
 import numpy as np
