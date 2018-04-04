@@ -1,8 +1,8 @@
 """
      PULSAR DISTANCE MEASUREMENT - MULTIPLE LINEAR REGRESSION MODEL
-          Orbital period prediction of 50 pulsars based on spin 
-          period, dispersion measurements, semimajor axis length
-          and distance from Sol.  
+          Orbital period prediction of 50 pulsars based on their
+          spin period, dispersion measurements, semimajor axis 
+          length and distance from Sol.  
 """
 import numpy as np
 import matplotlib.pyplot as plt
